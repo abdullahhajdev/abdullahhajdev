@@ -43,6 +43,7 @@ Coming soon:
 ## 💼 About Me
 - 💻 Coding for over **2 years**
 - 🌍 Based in **Peja, Kosovo**
+- 🌐 I speak English, (Native) Albanian and Arabic
 - 🎯 Transitioning into tech full-time, actively seeking **remote backend roles**
 - 🛠️ Building **Monterix**, a branding + creative agency, alongside my dev work
 
