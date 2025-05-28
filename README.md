@@ -51,7 +51,7 @@ Coming soon:
 
 ## 🤝 Let's Connect
 I'm always open to freelance work, new opportunities, and cool project ideas.  
-📫 Email: [your-email@example.com]  
+📫 Email: abdullahhajrizaj03@gmail.com
 🌐 Portfolio: Coming soon  
 📍 Based in: Kosovo (open to remote jobs globally)
 
