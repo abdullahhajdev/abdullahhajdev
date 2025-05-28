@@ -7,12 +7,12 @@ I'm passionate about building **efficient APIs**, working with **Node.js**, **Ex
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** JavaScript, SQL
+- **Languages:** JavaScript, Python (Basic), Java (Basic), SQL
 - **Backend:** Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Frontend (basics):** React, Next.js
+- **Databases:** MongoDB, MySQL, Postgresql
+- **Frontend :** React, Next.js (Basics), Vue.js (Basics)
 - **Version Control:** Git & GitHub
-- **Other:** Postman, RESTful APIs, JWT, Mongoose
+- **Other:** Render, Pg, Postman, RESTful APIs, JWT, Mongoose
 
 ---
 
