@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Hajrizaj
 
-🎯 A dedicated **backend developer** with 2+ years of experience in coding, currently leveling up and building clean, real-world projects to land my first dev job.
+🎯 A dedicated **backend developer** with 2+ years of experience in coding, currently leveling up and building clean, real-world projects to land a dev job.
 
 I'm passionate about building **efficient APIs**, working with **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**, and I'm currently pushing myself with **JWT-based authentication**, **role-based access**, and **fullstack apps**. I'm restarting fresh — this GitHub is where I'm sharing my journey, one project at a time.
 
